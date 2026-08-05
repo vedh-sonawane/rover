@@ -1,0 +1,5 @@
+# Runtime dependencies for the Rover Brain (Python side).
+# Install with:  pip install -r requirements.txt
+# Dev/test tools live in requirements-dev.txt.
+
+pyserial>=3.5
