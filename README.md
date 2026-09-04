@@ -4,6 +4,10 @@ An AI-powered autonomous mobile assistant built from an RC car chassis, an
 Arduino, and a PC-based AI brain. Rover senses its surroundings, makes decisions,
 and physically acts — the goal is a genuinely useful mobile robot, not a demo.
 
+#Photo of it
+
+https://lh3.googleusercontent.com/gg-dl/AAQ_wbHTV2lODGhRYQaXbl0cPkCXwgotmlCws8A_F888e8BITphr8A-dvYWhv9TnF1pztMzgP0Q_vByTP9DepySUrlGNLM7Mhc764uD50yCYlswFi6xMJbfbtvIvSmh9rV-V0JHf4-tOx2l7Z71zGwuTM32LhmzzkimFbnGk5_WGo2pe_bMiWg=s1024-rj
+
 > Status: **Phase 1 — Software Foundation & Simulation.** The Brain can drive a
 > simulated Body end-to-end (commands, acknowledgements, telemetry, and the
 > safety watchdog) with zero hardware.
