@@ -6,7 +6,7 @@ and physically acts — the goal is a genuinely useful mobile robot, not a demo.
 
 #Photo of it
 
-https://lh3.googleusercontent.com/gg-dl/AAQ_wbHTV2lODGhRYQaXbl0cPkCXwgotmlCws8A_F888e8BITphr8A-dvYWhv9TnF1pztMzgP0Q_vByTP9DepySUrlGNLM7Mhc764uD50yCYlswFi6xMJbfbtvIvSmh9rV-V0JHf4-tOx2l7Z71zGwuTM32LhmzzkimFbnGk5_WGo2pe_bMiWg=s1024-rj
+<img width="1024" height="559" alt="watermarked_img_18409727958079991698" src="https://github.com/user-attachments/assets/0c993142-fd07-472e-92c0-3dc342b141ca" />
 
 > Status: **Phase 1 — Software Foundation & Simulation.** The Brain can drive a
 > simulated Body end-to-end (commands, acknowledgements, telemetry, and the
